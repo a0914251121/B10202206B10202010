@@ -10,7 +10,13 @@ namespace WindowsFormsApplication1
     {
         public int GetNumber()
         {
-            return 0;
+            Random a = new Random();
+            int x;
+            x = a.Next(1, 100);
+            return x;
+
+
+
         }
     }
 }
