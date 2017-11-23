@@ -22,3 +22,9 @@ C:\Users\zxc\Documents\GitHub\B10202206B10202010\WindowsFormsApplication1\Window
 C:\Users\zxc\Documents\GitHub\B10202206B10202010\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
 C:\Users\zxc\Documents\GitHub\B10202206B10202010\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
 C:\Users\zxc\Documents\GitHub\B10202206B10202010\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\邱偉鈞\Documents\Visual Studio 2013\Projects\ConsoleApplication1\B10202206B10202010\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\邱偉鈞\Documents\Visual Studio 2013\Projects\ConsoleApplication1\B10202206B10202010\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\邱偉鈞\Documents\Visual Studio 2013\Projects\ConsoleApplication1\B10202206B10202010\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\邱偉鈞\Documents\Visual Studio 2013\Projects\ConsoleApplication1\B10202206B10202010\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\邱偉鈞\Documents\Visual Studio 2013\Projects\ConsoleApplication1\B10202206B10202010\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\邱偉鈞\Documents\Visual Studio 2013\Projects\ConsoleApplication1\B10202206B10202010\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

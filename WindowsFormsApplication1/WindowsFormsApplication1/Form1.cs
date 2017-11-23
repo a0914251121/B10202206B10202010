@@ -19,8 +19,29 @@ namespace WindowsFormsApplication1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            ClassA g = new ClassA();
-            label1.Text = g.GetNumber().ToString();
+            ClassA cA = new ClassA();
+            ClassB cB = new ClassB();
+            int n = cA.GetNumber();
+            label1.Text = n.ToString();
+            for (int i = 0; i <= n; ++i)
+            {
+                if (cB.IsPrime(i))
+                {
+                    comboBox1.Items.Add(i);
+                }
+            }
+        }
+
+
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            label1.Text = comboBox1.SelectedIndex.ToString();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
